@@ -1,0 +1,10 @@
+{
+  "name": "NameAbbreviationGenerator",
+  "version": "1.0.0",
+  "api": 4,
+  "description": "学生姓名缩写生成器",
+  "author": "SHJingYe",
+  "main": "SHJingYe\\NameAbbreviationGenerator\\NameAbbreviationGenerator",
+  "order": 0,
+  "website": "https://github.com/SHJingYe/NameAbbreviationGenerator"
+}
